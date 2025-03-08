@@ -16,14 +16,17 @@ The following ML models were trained and evaluated:
 ✅ Decision Trees
 
 **Performance Metrics**
+
 The models were evaluated using standard classification metrics, and the results are summarized in the table below:
 
 ![Results](https://github.com/user-attachments/assets/a5b56bad-b9a9-4e74-b7c4-adf2afc31035)
 
 **Key Findings**
+
 📌 SVM performed the best, achieving the highest AUC (0.97), accuracy (0.90), and recall (0.88), making it the most effective model for melanoma detection.
 📌 Logistic Regression had lower AUC (0.83) but showed competitive accuracy.
 📌 k-NN and Decision Trees performed similarly in terms of accuracy but lacked an AUC value in this evaluation.
 
 **Conclusion**
+
 The results indicate that SVM is the most suitable model for melanoma detection in this project. Future improvements may include deep learning approaches (CNNs) and hyperparameter tuning for better accuracy.
