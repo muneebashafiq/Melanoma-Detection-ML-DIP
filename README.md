@@ -2,7 +2,7 @@
 
 **Project Overview**
 
-This project focuses on the automatic detection of melanoma using Digital Image Processing (DIP) and Machine Learning (ML) techniques. The goal is to classify skin lesions as melanoma or benign by leveraging various ML models and evaluating their performance.
+This project focuses on the automatic detection of melanoma, a type of skin cancer, using Digital Image Processing (DIP) and Machine Learning (ML) techniques. The goal is to classify skin lesions as either melanoma (cancerous) or benign (non-cancerous) by leveraging various ML models and evaluating their performance. Since melanoma can be life-threatening if not detected early, this project aims to assist in early diagnosis and improve accuracy through automated image analysis.
 
 **Dataset**
 
